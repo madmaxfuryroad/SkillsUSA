@@ -1,0 +1,21 @@
+p {
+    color: olive;
+    font-family: cursive;
+}
+
+.featured {
+    color: orangered;
+}
+
+#special {
+    color: magenta;
+}
+/* 
+.hello + .main h1 {
+
+}
+
+a[href="google.com"] {
+
+} */
+

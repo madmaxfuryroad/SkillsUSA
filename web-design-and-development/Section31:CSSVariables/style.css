@@ -1,0 +1,22 @@
+:root {
+    --brand-color: rgb(214, 180, 59);
+}
+
+button {
+    background-color: var(--brand-color);
+}
+
+h1 {
+    color: var(--brand-color);
+}
+
+div {
+    border: 2px solid var(--brand-color)
+}
+
+@media screen and (max-width: 800px) {
+    :root {
+        --brand-color: rgb(207, 94, 113);
+    }
+}
+
