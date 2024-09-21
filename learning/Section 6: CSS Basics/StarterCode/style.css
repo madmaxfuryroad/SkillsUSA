@@ -1,0 +1,59 @@
+body {
+    font-family: monospace, sans-serif;
+}
+
+/* TEXT DECORATION */
+/* 
+h1 {
+    text-transform: uppercase;
+    text-decoration: yellowgreen dotted 4px underline;
+}
+
+a {
+    text-decoration: none;
+} */
+
+
+
+
+
+/* ID/CLASS */
+/* #review {
+    background-color: gold;
+    font-size: 20px;
+}
+
+#userr {
+    text-decoration: gold underline 5px;
+}
+
+.tag {
+    text-decoration: yellowgreen underline 3px;
+}
+
+#cast {
+    list-style-type: square;
+    list-style-position: inside;
+    list-style-image: none;
+}  */
+
+
+/* SUDO CLASS */
+/* a:visited {
+    color:orangered
+}
+
+a:hover {
+    text-decoration: orangered underline 4px;
+}
+
+a {
+    text-decoration: none;
+} */
+
+
+
+h1 {
+    font-family: "Cedarville Cursive", cursive;
+    font-weight: 900;
+}

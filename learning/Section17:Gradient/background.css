@@ -1,0 +1,19 @@
+/* .box {
+    border: 1px solid salmon;
+    width: 900px;
+    height: 500px;
+    background-image: url("images/people.jpg");
+    background-size: cover;
+    background-position: right;
+} */
+
+.box {
+    border: 1px solid salmon;
+    width: 200px;
+    height: 400px;
+    background-image: url("Images/images/food.jpg");
+    border: 10px dashed red;
+    background-size: cover;
+    background-position: center;
+    background-clip: content-box;
+}
