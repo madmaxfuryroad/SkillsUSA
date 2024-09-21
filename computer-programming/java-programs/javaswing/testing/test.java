@@ -1,6 +1,6 @@
 package javaswing.testing;
 
-public class papatoldmetodothisandiamgoingtofail {
+public class test {
     public static void main(String[] args) {
         String a = "123"; //stored at same memory location!!
         String b = "123";
